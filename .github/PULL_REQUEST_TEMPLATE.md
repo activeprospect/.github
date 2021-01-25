@@ -1,8 +1,3 @@
----
-name: Pull Request Template
-about: Use this template to create a new Pull Request.
----
-
 ## Description of the change
 
 > Description here
