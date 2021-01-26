@@ -16,13 +16,13 @@
 ### Development
 
 - [ ] Lint rules pass locally
-- [ ] The code changed/added as part of this pull request has been covered with tests
-- [ ] All tests related to the changed code pass in development
+- [ ] The code changed/added as part of this pull request has been covered with tests, or this PR does not alter production code
+- [ ] All tests related to the changed code pass in development, or tests are not applicable
 
 ### Code review 
 
 - [ ]  This pull request has a descriptive title and information useful to a reviewer. There may be a screenshot or screencast attached
 - [ ]  At least two engineers have been added as "Reviewers" on the pull request
-- [ ]  Changes have been reviewed by at least two other engineers
+- [ ]  Changes have been reviewed by at least two other engineers who did not write the code
 - [ ]  Issue from Clubhouse has a link to this pull request
 - [ ]  This PR has a link to the issue in Clubhouse
