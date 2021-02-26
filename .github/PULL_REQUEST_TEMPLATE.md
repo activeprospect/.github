@@ -25,9 +25,9 @@
 ### Code Review
 
 - [ ]  This pull request has a descriptive title and information useful to a reviewer. There may be a screenshot or screencast attached.
-- [ ]  This branch has been rebased off master to be current.
 - [ ]  At least two engineers have been added as "Reviewers" on the pull request.
 - [ ]  Changes have been reviewed by at least two other engineers who did not write the code.
+- [ ]  This branch has been rebased off master to be current.
 
 ### Tracking 
 - [ ]  Issue from Clubhouse has a link to this pull request.
