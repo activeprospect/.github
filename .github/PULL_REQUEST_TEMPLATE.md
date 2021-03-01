@@ -12,7 +12,7 @@
 
 ## Related tickets
 
-> Fix [#1]() 
+> Link to Clubhouse Ticket Goes Here
 
 ## Checklists
 
@@ -35,4 +35,3 @@
 
 ### QA
 - [ ]  This branch has been deployed to staging and tested.
-
